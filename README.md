@@ -61,6 +61,12 @@ I first heard of this from YoYoChinese and it is simply sticking to the Mandarin
 
 16. Come up with a way to handle words like "sibling" which would take up a considerable amount of space if you translate character by character.
 
+17. Style punctuation so that it doesn't take up unneeded space.
+
+18. Can show variations of one line with characters, pinyin, English for each word or multiple lines (2 or 3) or preferred character, pinyin, or English.
+
+19. Fix the buttons to toggle the one line option between options to something more intuitive. Cycle through the three options or two buttons to toggle two states.
+
 
 I'll continue to add ideas and pipeline features. I look forward to seeing what the community comes up with and what features other langauge might need.
 
